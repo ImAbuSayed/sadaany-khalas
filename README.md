@@ -13,6 +13,7 @@
 | Lyric Writing Date | April 21, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/sadaany-khalas/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Apply for Music License: Sadaany Khalas](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
