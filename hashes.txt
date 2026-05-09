@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Sadaany Khalas
+
+This log tracks the cryptographic history and versioning for the song **Sadaany Khalas** (sadaany-khalas).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T13:35:54.967428 | `v1` | `d8bb44723c7b879ab7b9257906010aa7852722ece8cf8a9bf857d19d70f85780` | `b2d69170a6d020d8b72b5d61f8bd18b7df47e7efa8745c4821b2abdb72ee59d4` | `2026-05-09_sadaany-khalas-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
